@@ -1,0 +1,24 @@
+{
+  "name": "anear-test-app",
+  "version": "1.0.0",
+  "description": "Standalone Anear Test App uses mock Anear JS API and real Ably messaging",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/machvee/anear-test-app.git"
+  },
+  "keywords": [
+    "anear-js-api",
+    "test",
+    "app"
+  ],
+  "author": "machvee",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/machvee/anear-test-app/issues"
+  },
+  "homepage": "https://github.com/machvee/anear-test-app#readme"
+}
