@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/machvee/anear-test-app/issues"
   },
-  "homepage": "https://github.com/machvee/anear-test-app#readme"
+  "homepage": "https://github.com/machvee/anear-test-app#readme",
+  "dependencies": {
+    "anear-js-api": "^0.3.31",
+    "json-mock-api": "^1.2.2"
+  }
 }
