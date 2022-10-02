@@ -4,7 +4,8 @@
   "description": "Standalone Anear Test App uses mock Anear JS API and real Ably messaging",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "mock": "json-mock-api --port 3000 --directory ."
   },
   "repository": {
     "type": "git",
